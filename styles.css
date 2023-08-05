@@ -12,7 +12,8 @@ div.recipe_container {
     text-align: center;
 }
 
-.recipes {
+ul.recipes {
     display: inline-block;
     text-align: left;
+    font-size: 18px;
 }
