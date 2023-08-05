@@ -1,4 +1,4 @@
-body {
+#homepage {
     background-color: hsl(300, 59%, 73%);
     font-family: "Brush Script MT", cursive, sans-serif;
 }
@@ -16,4 +16,8 @@ ul.recipes {
     display: inline-block;
     text-align: left;
     font-size: 18px;
+}
+
+body.recipe_page {
+    background-color: bisque;
 }
