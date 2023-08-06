@@ -1,23 +1,23 @@
-#homepage {
+.homepage {
     background-color: hsl(300, 59%, 73%);
     font-family: "Brush Script MT", cursive, sans-serif;
 }
 
-h1 {
+.main_title {
     text-align: center;
     font-size: 48px;
 }
 
-div.recipe_container {
+.recipe_container {
     text-align: center;
 }
 
-ul.recipes {
+.recipe_list {
     display: inline-block;
     text-align: left;
     font-size: 18px;
 }
 
-body.recipe_page {
-    background-color: bisque;
+.recipe_page {
+    background-color: hsl(33, 100%, 88%);
 }
