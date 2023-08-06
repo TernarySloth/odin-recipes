@@ -1,5 +1,5 @@
 .homepage {
-    background-color: hsl(300, 59%, 73%);
+    background-color: rgb(227, 146, 227);
     font-family: "Brush Script MT", cursive, sans-serif;
 }
 
@@ -19,5 +19,5 @@
 }
 
 .recipe_page {
-    background-color: hsl(33, 100%, 88%);
+    background-color: rgb(255, 227, 194);
 }
