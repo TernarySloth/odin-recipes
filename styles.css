@@ -23,7 +23,7 @@ html {
 
 .recipe_list {
     display: inline-block;
-    text-align: left;
+    text-align: center;
     font-size: 18px;
 }
 
