@@ -1,3 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 .homepage {
     background-color: rgb(227, 146, 227);
     font-family: "Great Vibes", sans-serif;
