@@ -26,6 +26,7 @@ html {
     background-color: rgb(255, 227, 194);
     margin: 24px 210px;
     padding: 20px;
+    border: 4px solid rgb(0, 0, 0);
 }
 
 .recipe_list {
