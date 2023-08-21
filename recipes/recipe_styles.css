@@ -15,5 +15,7 @@ body {
 }
 
 .recipe-photo {
+    width: 800px;
+    height: auto;
     border: 4px solid black;
 }
